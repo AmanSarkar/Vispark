@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">1919chat</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="forgot_password" translatable="false">forgot password?</string>
+</resources>
